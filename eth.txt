@@ -596,7 +596,7 @@ miner 2bf241 phoenixminer
 #(wayne)
 miner 793aeb phoenixminer
 
-(101-01)
+#(101-01)
 miner 727ed3 phoenixminer
 cor 727ed3 1175 1175 1175 1175 1175 1175
 mem 727ed3 2025 2025 2025 2025 2025 2025
