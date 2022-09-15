@@ -1,0 +1,2 @@
+PhoenixMiner.exe -pool us.ethwmine.com:8008 -wal 0xf91bE51cE48a5551c7420a581346C44fe709D41b -worker Phoenix -epsw x -mode 1 -Rmode 1 -log 0 -mport 0 -etha 0 -retrydelay 1 -ftime 55 -tt 79 -tstop 89 -tstart 79 -coin eth
+pause
